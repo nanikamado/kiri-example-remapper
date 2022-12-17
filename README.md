@@ -1,8 +1,8 @@
-Sample key remapper using [kiri](https://github.com/nanikamado/kiri)
+# Sample key remapper using [kiri](https://github.com/nanikamado/kiri)
 
 ## How to config
 
-See the main function of [src/main.rs].
+See the main function of [src/main.rs](src/main.rs).
 
 ## Installation
 
