@@ -119,7 +119,7 @@ fn config_wait_slow_shift_release() -> RemapLayer<StateShiftRealease> {
             input: [KeyInput::release(KEY_LEFTSHIFT), KeyInput::press(k)],
             output: vec![KeyInput::release(KEY_LEFTSHIFT), KeyInput::press(k)],
             transition: Normal,
-            threshold: 80,
+            threshold: 120,
         })
         .collect();
     let ss = all_keys()
