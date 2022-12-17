@@ -36,6 +36,8 @@ for debugging.
 
 ## Run automatically on startup (tested only in Fedora 36)
 
+Replace "hoge-hoge-remapper" with the name you like.
+
 ```sh
 cd kiri-example-remapper
 cargo build --release
